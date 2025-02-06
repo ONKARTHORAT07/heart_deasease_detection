@@ -1,6 +1,9 @@
 import streamlit as st
 import numpy as np
+# from fpdf import FPDF
 from fpdf import FPDF
+print("FPDF imported successfully!")
+
 import matplotlib.pyplot as plt
 import seaborn as sns
 import io
